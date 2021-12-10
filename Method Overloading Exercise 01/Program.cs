@@ -10,7 +10,7 @@ namespace Method_Overloading_Exercise_01_Answers
 
             #region TODOs
 
-            // TODO: Call each of the overloads you created below here make sure to pass in the appropriate arguments to the function
+            // TODO: Call each of the overloads you created below here, and make sure to pass in the appropriate arguments to the function
 
             #endregion
 
