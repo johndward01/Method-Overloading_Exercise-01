@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Method_Overloading_Exercise_01_Answers
+namespace Method_Overloading_Exercise_01
 {
     class Program
     {
